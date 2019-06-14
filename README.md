@@ -11,8 +11,10 @@ Uso de las clases
 Donde * hace referencia al color a aplicar.
 
 # Ejemplo
+```
 <div class="fondo-aliceblue texto-black" style="border: solid 0.6px gray; border-radius: 4px; padding; 8px; margin: 20px;">
   Soy un parrafo con fondo de color aliceblue y texo de color black.
 </div>
+```
 
 Vista previa: https://jcvilladiegoc.github.io/paleta-de-colores/
