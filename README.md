@@ -5,14 +5,14 @@ Colores: aliceblue, antiquewhite, aqua, aquamarine, azure, beige, bisque, black,
 
 Uso de las clases
 
-- fondo-*
-- texto-*
+- bg-*
+- text-*
 
 Donde * hace referencia al color a aplicar.
 
 # Ejemplo
 ```
-<div class="fondo-aliceblue texto-black" style="border: solid 0.6px gray; border-radius: 4px; padding; 8px; margin: 20px;">
+<div class="bg-aliceblue text-black" style="border: solid 0.6px gray; border-radius: 4px; padding; 8px; margin: 20px;">
   Soy un parrafo con fondo de color aliceblue y texo de color black.
 </div>
 ```
